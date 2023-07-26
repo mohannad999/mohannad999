@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-I am an Embedded systems engineer and have experience working in Embedded software development and designing custom PCB for Many different products 👨‍💻. Interested in making life easier by creating Desging new PCB or developing software for critical applications. Fascinated about space.
+I am an Embedded systems engineer and have experience working in Embedded software development and designing custom PCB for Many different products 👨‍💻. Interested in making life easier by  Designing new PCBs or developing software for critical applications. Fascinated about space.
 
 
 - 🔭 I’m currently working on Altium Designer, ESP-Idf, STM32 cube ide.
