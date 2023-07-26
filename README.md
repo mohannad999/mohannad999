@@ -15,6 +15,8 @@ I am an Embedded systems engineer and have experience working in Embedded softwa
 
 - 🔭 I’m currently working on Altium Designer, ESP-Idf, STM32 cube ide.
 - ⚡ Currently Working at Agile Industries.
+<br/>
+<br/>
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohannad-alzaatreh/)
