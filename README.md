@@ -8,7 +8,8 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-I am an Embedded systems engineer and have experience working in Embedded software development and designing custom PCB for Many different products 👨‍💻. Interested in making life easier by  Designing new PCBs or developing software for critical applications. Fascinated about space.
+I am an Embedded systems engineer and have experience working in Embedded software development and designing custom PCB for Many different products 👨‍💻. 
+Interested in making life easier by  Designing new PCBs or developing software for critical applications. Fascinated about space Industries 🐱‍🏍🛰.
 
 <br/>
 <br/>
