@@ -17,7 +17,6 @@ Interested in making life easier by  Designing new PCBs or developing software f
 - 🔭 I’m currently working on Altium Designer, ESP-Idf, STM32 cube ide.
 - ⚡ Currently Working at Agile Industries.
 <br/>
-<br/>
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mohannad-alzaatreh/)
