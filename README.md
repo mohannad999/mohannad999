@@ -9,7 +9,7 @@
 
 <h3>🚀 About Me</h3> 
 I am an Embedded systems engineer and have experience working in Embedded software development and designing custom PCB for Many different products 👨‍💻. 
-Interested in making life easier by  Designing new PCBs or developing software for critical applications. Fascinated about space Industries 🐱‍🏍🛰.
+Interested in making life easier by  Designing new PCBs or developing software for critical applications. Fascinated about space Industries 🛰.
 
 <br/>
 <br/>
